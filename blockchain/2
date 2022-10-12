@@ -1,0 +1,11 @@
+{
+    "penjual": "hasbi",
+    "pembeli": "rangga",
+    "time": 1665550269.072447,
+    "harga": 90000000,
+    "luas_tanah": "1h",
+    "prev_block": {
+        "hash": "430cbd8bcca5c25ba921a8fd2eb3ddf35885ad9354afa70ac70db317be3fc077",
+        "filename": "1"
+    }
+}
